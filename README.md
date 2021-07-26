@@ -1,5 +1,5 @@
 # stepik-auto-tests-course
 stepik-homework
-Супер курс: https://stepik.org/course/575/syllabus
+Super course: https://stepik.org/course/575/syllabus
 
-урааа
+Hell YYYYEAH
