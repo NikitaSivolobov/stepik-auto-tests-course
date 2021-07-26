@@ -1,10 +1,10 @@
-# stepik-auto-tests-course
+п»ї# stepik-auto-tests-course
 stepik-homework
 
 Super course:
 https://stepik.org/course/575/syllabus
 
-Hell YYYYEAH
+РЈСЂР°Р°Р°)))
 
-Добавлены 2 задачи из модуля 1 
-и 1 задача из предыдущего модуля - module_2_lesson4_step8.py
+Р”РѕР±Р°РІР»РµРЅС‹ 2 Р·Р°РґР°С‡Рё РёР· РјРѕРґСѓР»СЏ 1 
+Рё 1 Р·Р°РґР°С‡Р° РёР· РїСЂРµРґС‹РґСѓС‰РµРіРѕ РјРѕРґСѓР»СЏ - module_2_lesson4_step8.py
